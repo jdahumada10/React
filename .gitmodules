@@ -1,6 +1,3 @@
-[submodule "mosters-rolodex"]
-	path = mosters-rolodex
-	url = https://github.com/jdahumada10/MonstersRolodex.git
 [submodule "monsters-rolodex"]
 	path = monsters-rolodex
 	url = https://github.com/jdahumada10/MonstersRolodex.git
